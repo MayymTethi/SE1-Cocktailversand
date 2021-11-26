@@ -10,8 +10,20 @@ include::../_includes/default-attributes.inc.adoc[]
 
 == Identifizierte Use Cases
 // Liste aller identifizierten Use Cases (priorisiert)
-* *UC01*: ...
-* *UC02*: ...
+//Kunde
+* *UC01*: Bestellung aufgeben
+* *UC02*: Account anlegen
+* *UC03*: Account löschen
+* *UC04*: Bestellung ändern
+* *UC05*: Bestellung stornieren
+* *UC06*: Produkte einsehen
+//Mitarbeiter
+* *UC07*: Kommunikation
+* *UC08*: Accounts verwalten
+* *UC09*: Bestellung verarbeiten
+* *UC10*: Bestellung einsehen
+* *UC11*: Bestellstatus ändern
+
 
 == Use Case Diagramm
 // ...
